@@ -44,6 +44,8 @@ Any Java IDE (Eclipse, IntelliJ, NetBeans) or terminal with javac
 ## ▶️ How to Run
 
 javac NumberGuessingGameGUI.java
+
+
 java NumberGuessingGameGUI
 
 
