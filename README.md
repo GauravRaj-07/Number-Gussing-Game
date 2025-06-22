@@ -48,4 +48,21 @@ javac NumberGuessingGameGUI.java
 
 java NumberGuessingGameGUI
 
+## 📜 License
+
+This project is open-source and intended for educational, personal, or academic use.
+
+---
+
+## 👨‍💻 Author
+
+**Gaurav Raj**
+
+> Enjoyed playing? Improve it further by adding:
+> - Sound effects 🎵
+> - Difficulty levels 🎚️
+> - Timer-based scoring ⏱️
+> - High-score persistence 💾
+
+
 
